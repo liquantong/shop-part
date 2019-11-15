@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
-Built-By: 51108
-Build-Jdk: 1.8.0_71
+Implementation-Title: shop-mapper
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
 Created-By: Maven Integration for Eclipse
 
