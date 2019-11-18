@@ -53,14 +53,17 @@
           <artifactId>druid</artifactId>
           <version>1.0.11</version>
       </dependency>
+	  <dependency>
+		  <groupId>org.springframework.boot</groupId>
+		  <artifactId>spring-boot-starter-thymeleaf</artifactId>
+	  </dependency>
   </dependencies>
-  
+
   <modules>
   	<module>shop-common</module>
   	<module>shop-model</module>
   	<module>shop-web</module>
   	<module>shop-service</module>
   	<module>shop-mapper</module>
-  	<module>shop-ui</module>
   </modules>
 </project>
